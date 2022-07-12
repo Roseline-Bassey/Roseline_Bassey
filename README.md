@@ -43,5 +43,3 @@ I am a Technical Writer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 
 
-
-
