@@ -60,9 +60,9 @@ I am Roseline Bassey, an English major, and a technical writer who is passionate
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
 ---
 
-### :fire: My Stats :
+### :writing_hand: Blog Posts :
 
-https://github-readme-streak-stats.herokuapp.com/?user=Roseline-Bassey
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
