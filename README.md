@@ -31,15 +31,16 @@
 
 ### :woman_technologist: About Me :
 
-I am a Technical Writer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+I am Roseline Bassey, an English major, and a technical writer who is passionate about making technology more accessible and easy to understand. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I enjoy simplifying complex topics and sharing my knowledge with others.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I have a knack for DevOps technologies and a passion for teaching.
+- :zap: During my free time, I write on a variety of technical writing topics.
+- :zap: My blog is where I discuss topics relating to technical writing and open-source.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- This blog aims to create a space where readers can find resources related to technical writing, from beginner tips to advanced strategies.
 
 - :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Hello_Roseline)
-
 
 
