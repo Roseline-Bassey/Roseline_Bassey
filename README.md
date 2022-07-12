@@ -16,7 +16,7 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=https://github.com/Roseline-Bassey&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=github.com/Roseline-Bassey&style=flat-square&color=blue" alt=""/>
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 ![](https://komarev.com/ghpvc/?username=https://github.com/Roseline-Bassey&style=flat-square)
