@@ -4,7 +4,7 @@
 
 
 
-<div id="header">
+<div id="badges">
   <a href="https://www.linkedin.com/in/roselyn-bassey">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -16,4 +16,4 @@
   </a>
 </div>
 
-
+<img src="https://komarev.com/ghpvc/?username=https://github.com/Roseline-Bassey&style=flat-square&color=blue" alt=""/>
