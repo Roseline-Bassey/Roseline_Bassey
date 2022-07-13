@@ -64,5 +64,5 @@ I am Roseline Bassey, an English major, and a technical writer who is passionate
 
 ### :writing_hand: Blog Posts :
 
- BLOG-POST-LIST:START 
- BLOG-POST-LIST:END 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
