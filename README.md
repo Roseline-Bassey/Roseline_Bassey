@@ -67,7 +67,7 @@ I am Roseline Bassey, an English major, and a technical writer who is passionate
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Terminologies and Why Use Docker?](https://dev.to/roselinebassey/docker-terminologies-3c3j)
+- [Docker Terminologies and Features](https://dev.to/roselinebassey/docker-terminologies-3c3j)
 - [Technical Writer&#39;s Toolkit.](https://dev.to/roselinebassey/technical-writers-toolkit-23i1)
 - [My Technical Writing Journal -- Series #2](https://dev.to/roselinebassey/my-technical-writing-journal-series-2-119b)
 - [Basic Docker Commands for Beginners.](https://dev.to/roselinebassey/docker-for-beginners-basic-docker-commands-2n89)
