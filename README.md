@@ -69,6 +69,6 @@ I am Roseline Bassey, an English major, and a technical writer who is passionate
 <!-- BLOG-POST-LIST:START -->
 - [Docker Terminologies](https://dev.to/roselinebassey/docker-terminologies-3c3j)
 - [Technical Writer&#39;s Toolkit.](https://dev.to/roselinebassey/technical-writers-toolkit-23i1)
-- [My Technical Writing Journal -- Series #2](https://dev.to/roselinebassey/my-technical-writing-journal-series-2-119b)
 - [Basic Docker Commands for Beginners.](https://dev.to/roselinebassey/docker-for-beginners-basic-docker-commands-2n89)
+- [Tech Industry is Deep. Find Your Path and Stick With It.](https://dev.to/roselinebassey/tech-industry-is-deep-find-your-path-and-stick-with-it-1d7l)
 <!-- BLOG-POST-LIST:END -->
