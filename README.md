@@ -67,7 +67,7 @@ I am Roseline Bassey, an English major, and a technical writer who is passionate
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to set up an Nginx Web Server in Ubuntu Virtual Machine Using Vagrant](https://dev.to/roselinebassey/how-to-set-up-an-nginx-web-server-in-ubuntu-virtual-machine-using-vagrant-25gm)
+- [How to Set Up an Nginx Web Server in Ubuntu Virtual Machine Using Vagrant](https://dev.to/roselinebassey/how-to-set-up-an-nginx-web-server-in-ubuntu-virtual-machine-using-vagrant-25gm)
 - [Docker Terminologies](https://dev.to/roselinebassey/docker-terminologies-3c3j)
 - [Technical Writer&#39;s Toolkit.](https://dev.to/roselinebassey/technical-writers-toolkit-23i1)
 - [Basic Docker Commands for Beginners.](https://dev.to/roselinebassey/docker-for-beginners-basic-docker-commands-2n89)
