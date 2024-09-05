@@ -67,7 +67,7 @@ I am Roseline Bassey, an English major, and a technical writer who is passionate
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Android: Automate Instrumented and Unit Tests With CircleCI](https://dev.to/roselinebassey/android-automate-instrumented-and-unit-tests-with-circleci-1igo)
+- [Android App: Instrumented and Unit Tests Automation Using CircleCI](https://dev.to/roselinebassey/android-automate-instrumented-and-unit-tests-with-circleci-1igo)
 - [How to Set Up an Nginx Web Server in Ubuntu Virtual Machine Using Vagrant](https://dev.to/roselinebassey/how-to-set-up-an-nginx-web-server-in-ubuntu-virtual-machine-using-vagrant-25gm)
 - [Docker Terminologies](https://dev.to/roselinebassey/docker-terminologies-3c3j)
 - [Technical Writer&#39;s Toolkit.](https://dev.to/roselinebassey/technical-writers-toolkit-23i1)
